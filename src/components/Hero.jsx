@@ -6,7 +6,7 @@ function Hero () {
    <div class="bg-[url('https://i.pinimg.com/736x/b3/15/52/b315527f272a1a00df44206a286308b7.jpg')] bg-cover bg-no-repeat h-screen bg-black ">
     <div className='h-30  border-amber-50 flex flex-row justify-center uppercase gap-8'> 
       <div className='h-8 w-20 text-center e mt-14'> <Link to="/" className='text-white hover:text-black cursor-pointer' >Home</Link></div>
-      <div className='h-8 w-20 text-center  mt-14'><Link to="/about" className='text-white  hover:text-black cursor-pointer'>about</Link></div>
+      <div className='h-8 w-20 text-center  mt-14'><Link to="/about" className='text-white  hover:text-black cursor-pointer'>About</Link></div>
       <div className='h-8 w-20  text-center  mt-14'><Link to="/skills" className='text-white  hover:text-black cursor-pointer'>Skills</Link></div>
       <div className='h-8 w-35 border-1 rounded-2xl border-white mt-14 ml-250 flex flex-row gap-2 justify-center cursor-pointer'><Link to="/let" className='text-white'>contact</Link>
       <div className='h-7 w-7  rounded-4xl bg-yellow-100'><img  src="https://img.icons8.com/external-kosonicon-solid-kosonicon/48/external-upper-right-arrow-arrows-set-2-kosonicon-solid-kosonicon-2.png" alt="external-upper-right-arrow-arrows-set-2-kosonicon-solid-kosonicon-2"/></div></div>
